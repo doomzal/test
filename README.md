@@ -1,2 +1,2 @@
-# test
+# FarmaRP-BOT
 FarmaRP-BOT
